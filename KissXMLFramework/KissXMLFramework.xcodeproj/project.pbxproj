@@ -27,7 +27,7 @@
 		B4E7D79F1678F64E00C01DFA /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
-			dstPath = "include/${PRODUCT_NAME}";
+			dstPath = "usr/local/include/${PRODUCT_NAME}";
 			dstSubfolderSpec = 16;
 			files = (
 				B4E7D7C71678F66D00C01DFA /* DDXMLElementAdditions.h in CopyFiles */,
@@ -319,6 +319,7 @@
 				B4E7D7B11678F64E00C01DFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
